@@ -1,6 +1,7 @@
-package Methods;
+package Methods.Questions;
 
-import java.util.*;
+import java.util.Scanner;
+
 public class SumofTwoNumbers {
     public static void main() {
 

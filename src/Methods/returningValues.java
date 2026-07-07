@@ -2,7 +2,7 @@ package Methods;
 
 import java.util.Scanner;
 
-public class returnValue {
+public class returningValues {
     public static void main() {
 
         int res = sum();
@@ -25,6 +25,8 @@ public class returnValue {
 
         int addition = num1 + num2;
         return addition;
+
+        // statement written after return will be an unreachable statement
 
     }
 
