@@ -10,6 +10,10 @@
       <sourceFolder url="file://$MODULE_DIR$/05_Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06_Searching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_Patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_BitwiseOperators" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

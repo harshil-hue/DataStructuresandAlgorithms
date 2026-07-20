@@ -4,7 +4,7 @@ public class RotatedArrayWithDuplicateElementsBS {
 
     public static void main() {
 
-        int[] arr = {1,1,3,1};
+        int[] arr = {2,1,3,4};
         System.out.println(pivotSearch(arr));
 
     }
@@ -14,7 +14,7 @@ public class RotatedArrayWithDuplicateElementsBS {
         int st = 0;
         int end = arr.length - 1;
 
-        while(st < end){
+        while(st <= end){
             int mid = st + (end - st) / 2;
 
             if(mid < end && arr[mid] > arr[mid+1]){
